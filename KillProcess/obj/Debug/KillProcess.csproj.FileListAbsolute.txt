@@ -1,0 +1,8 @@
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\bin\Debug\KillProcess.exe.config
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\bin\Debug\KillProcess.exe
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\bin\Debug\KillProcess.pdb
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\obj\Debug\KillProcess.Form1.resources
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\obj\Debug\KillProcess.Properties.Resources.resources
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\obj\Debug\KillProcess.csproj.GenerateResource.Cache
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\obj\Debug\KillProcess.exe
+C:\Users\Code\test\kill-process\KillProcess\KillProcess\obj\Debug\KillProcess.pdb
